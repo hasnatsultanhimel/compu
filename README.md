@@ -1,1 +1,1 @@
-# Hello world. Hi this is a future billionaire.
+# Here are some excel sheets that provide equations to fit straight line or polynomial curve to a given dataset. 
